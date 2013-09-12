@@ -4,7 +4,7 @@ eb_config_examples
 Collection of AWS Elastic Beanstalk configurations for .ebextensions  
 
 Applications:  
-  * [Loggly Server Config](https://github.com/lapygithub/eb_config_examples/blob/master/.ebextensions/loggly.config) - SaaS Log Management ([Loggly](www.loggly.com))  
+  * [Loggly Gen 2 Server Config](https://github.com/lapygithub/eb_config_examples/blob/master/.ebextensions/loggly_gen2.config) - SaaS Log Management ([Loggly](www.loggly.com))  
   * [New Relic Server Config](https://github.com/lapygithub/eb_config_examples/blob/master/.ebextensions/newrelic.config) - SaaS Application and Server Monitoring ([New Relic](www.newrelic.com))  
   * [AWS Cloudwatch Metrics](https://github.com/lapygithub/eb_config_examples/blob/master/.ebextensions/cloudwatchmetrics.config) - ([Source](http://docs.aws.amazon.com/))  
   * AWS Cloudwatch Alarms:
